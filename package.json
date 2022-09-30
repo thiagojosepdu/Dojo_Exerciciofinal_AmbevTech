@@ -1,0 +1,23 @@
+{
+  "name": "dojo_exerciciofinal_ambevtech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagojosepdu/Dojo_Exerciciofinal_AmbevTech.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagojosepdu/Dojo_Exerciciofinal_AmbevTech/issues"
+  },
+  "homepage": "https://github.com/thiagojosepdu/Dojo_Exerciciofinal_AmbevTech#readme",
+  "devDependencies": {
+    "cypress": "^10.9.0"
+  }
+}
